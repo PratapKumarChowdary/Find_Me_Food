@@ -1,0 +1,3 @@
+<merge>
+    <include layout="@layout/tabs_and_viewpager" />
+</merge>
